@@ -14,4 +14,5 @@ div:
     - [ 5,2,2.5 ]
     - [ 10,3,3.3333333333333335 ]
     - [ 3,0,'Denominator cannot be zero' ]
-  ids: [ 'positive number','numerator zero','decimal','infinite circular decimal','denominator zero' ]
+    - [ -6.9,2,-3.45 ]
+  ids: [ 'positive number','numerator zero','decimal','infinite circular decimal','denominator zero','negative' ]
